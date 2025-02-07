@@ -1,13 +1,13 @@
 const messages = [
-    "Are you suree?  ",
+    "Sure kana jan boss??  ",
     "Oh dimo sureee??  ",
-    "sure na sure na talaga?  ",
-    "Please pooooo...  ",
-    "Just think about it!",
-    "If you say no, I will be really sad   ",
-    "I will be very sad... ",
+    "Final na yan?  ",
+    "Nako ka boss ...  ",
+    "Pag isipan mo ng mabuti yan boss ",
+    "Lumbay sayo boss   ",
+    "Malungkot na nga ang tao ngaa... ",
     "Look oh im sad na :(  ",
-    "Ok fine, I will stop asking   ",
+    "Ahh ayaw mo talaga ha ",
     "Just kidding, say yes please! ❤️ "
 ];
 
@@ -22,7 +22,7 @@ function handleNoClick() {
     
     // Create an img tag to display the GIF
     const gif = document.createElement('img');
-    gif.src = 'https://media1.tenor.com/m/uF5vrR9-ui4AAAAd/hanni-hanni-pham.gif';
+    gif.src = 'https://media1.tenor.com/m/te8Hwtha-EoAAAAd/shrek-rizz-shrek-meme.gif';
     gif.alt = 'https://media.tenor.com/JGF5p6FthDIAAAAj/newjeans.gif';  // Optional alt text for accessibility
     gif.style.width = '40px';  // Adjust the size of the GIF
     gif.style.height = 'auto';
